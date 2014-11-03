@@ -1,9 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::27700" } },
-                                                                                
-"features": [
-{ "type": "Feature", "properties": { "UNIQUE_ID": 2.000000, "USRN": 20900363.000000, "LOCATION": "East Road", "TYPE": "Hire Terminal", "CONDITION": "Good", "SOURCE": "Traffic Management", "PLAN_NO": "HA - 328230 CD", "WARD": null, "DATEFIELD": null, "X_COORDS": 0.000000, "Y_COORDS": 0.000000, "MI_STYLE": "Symbol (230,255,18,\"Wingdings 2\",1,0)", "MI_PRINX": 2.000000 }, "geometry": { "type": "Point", "coordinates": [ 532765.07399288611, 182817.77821057499 ] } },
-{ "type": "Feature", "properties": { "UNIQUE_ID": 0.000000, "USRN": 0.000000, "LOCATION": null, "TYPE": null, "CONDITION": null, "SOURCE": null, "PLAN_NO": null, "WARD": null, "DATEFIELD": null, "X_COORDS": 0.000000, "Y_COORDS": 0.000000, "MI_STYLE": "Symbol (230,255,18,\"Wingdings 2\",0,0)", "MI_PRINX": 3.000000 }, "geometry": { "type": "Point", "coordinates": [ 533351.50396370201, 182370.916123517 ] } }
-]
-}
